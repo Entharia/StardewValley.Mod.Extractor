@@ -8,10 +8,6 @@
     </PropertyGroup>
 
     <ItemGroup>
-      <Folder Include="Services" />
-    </ItemGroup>
-
-    <ItemGroup>
       <PackageReference Include="Newtonsoft.Json" Version="13.0.2-beta2" />
       <PackageReference Include="Spectre.Console" Version="0.45.1-preview.0.24" />
       <PackageReference Include="Spectre.Console.Extensions.Progress" Version="1.0.0" />
