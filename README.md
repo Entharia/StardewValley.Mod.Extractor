@@ -3,7 +3,7 @@ This is a little console program to extract all mods from Stardew Valley and lis
 
 It's basically just a simple script with no error handling.
 
-You can either download the.exe or compile it yourself.
+You can either download the .exe or compile it yourself.
 
 
 If there are any suggestions, let me know.
